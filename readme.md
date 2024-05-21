@@ -1,2 +1,2 @@
-[![Static](https://github.com/ziravocado/music/actions/workflows/static.yml/badge.svg)](https://github.com/ziravocado/music/actions/workflows/static.yml)
-![code-size](https://img.shields.io/github/languages/code-size/ziravocado/music)
+[![Static](https://github.com/moonyctophile/music/actions/workflows/static.yml/badge.svg)](https://github.com/moonyctophile/music/actions/workflows/static.yml)
+![code-size](https://img.shields.io/github/languages/code-size/moonyctophile/music)
