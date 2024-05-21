@@ -269,7 +269,7 @@ function dom(tag, props, ...children) {
 }
 
 fetch(
-	"https://gist.githubusercontent.com/ziravocado/858d9b43ce5aae842a1cba908bd2f4b4/raw/63e6c7e971efb6f874290fe579bc6616f2cacd61/playlist.json",
+	"https://gist.githubusercontent.com/moonyctophile/858d9b43ce5aae842a1cba908bd2f4b4/raw/b04bc86bca736f86612d6d2a6663276eabb37d68/playlist.json",
 )
 	.then((respone) => respone)
 	.then((data) => data.json())
